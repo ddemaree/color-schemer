@@ -1,0 +1,10 @@
+{
+  "index.ignored_file_patterns" : [
+    ".git",
+    "node_modules"
+  ],
+  "workspace.color" : 11,
+  "workspace.name" : "Color Schemer",
+  "workspace.preview_type" : "custom",
+  "workspace.preview_url" : "http:\/\/localhost:1234"
+}
